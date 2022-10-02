@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lh --time-style='+'  
+ls -l -a --time-style='+'  
