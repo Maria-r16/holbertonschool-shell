@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -v uppercase letter* /tmp/u
+mv -v [:upper:]* /tmp/u
