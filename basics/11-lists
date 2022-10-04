@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la    ls -la cd ./basics      ls -la cd ./boot
