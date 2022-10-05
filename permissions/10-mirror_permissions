@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+w,g+xr,o+xr hello olleh 
+chmod ugo+rwx hello/ olleh/ 
