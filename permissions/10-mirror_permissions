@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+rwx, chown --reference=hello olleh 
+chmod ugo+rwx,chown --reference=hello olleh 
