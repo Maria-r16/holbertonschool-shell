@@ -1,2 +1,2 @@
 #!/bin/bash
-sort /etc/passwd 
+nl /etc/passwd | sed '/root/p'
