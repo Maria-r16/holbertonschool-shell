@@ -1,0 +1,2 @@
+#!/bin/bash
+sort | find . -iname "*git" | find . type f -empty
