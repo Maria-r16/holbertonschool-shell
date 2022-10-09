@@ -1,2 +1,2 @@
 #!/bin/bash
-ls ; ls -a
+find . -type f -empty | wc -l
