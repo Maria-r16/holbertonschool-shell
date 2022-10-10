@@ -1,0 +1,2 @@
+#!/bin/bash
+echo '%o\n' $(( 5#$( echo $WATER+$STIR)) | tr 01234567 bestchol 
